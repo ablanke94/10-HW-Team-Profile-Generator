@@ -47,7 +47,12 @@ To run tests, run the following command:
 npm test
 ```
 
+## Links
+
+A link to a video of me walking through the project : https://drive.google.com/file/d/1iPPp_8fie6_FruGyfCUcWUFrOpu_6hKd/view?usp=sharing
+
 ## Questions
 
 If you have any questions about the repo, open an issue or contact me directly at alexblanke98@gmail.com. You can find more of my work at [ablanke94](https://github.com/ablanke94/).
+
 
